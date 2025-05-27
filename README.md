@@ -5,7 +5,7 @@
 </p>
 
 ---
-
+I'm a student who is about to graduate and passionate about Technology
 ## 👨‍💻 About Me
 
 - 🧑‍🎓 I'm a student who is about to graduate and passionate about **Cybersecurity**, **Web/Mobile App Development**, and **Technology**.
