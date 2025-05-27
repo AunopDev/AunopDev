@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aunop Chinnapong</h1>
-<h3 align="center">I'm a student who is about to graduate and passionate about Technology</h3>
+<h3 align="center">I graduated with a degree in Digital Technology and Innovation and am a technology enthusiast</h3>
 
 - 👨‍💻 I run a camping-focused website: [Hike Go On](https://hike-go-on.vercel.app/)
 
