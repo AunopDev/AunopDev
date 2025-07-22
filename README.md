@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AunopDev</h1>
-<h3 align="center">I graduated with a degree in Digital Technology and Innovation and am a technology enthusiast</h3>
+<h3 align="center">I graduated with a degree in Digital Technology and Innovation with First Class Honors and am a technology enthusiast.</h3>
 
 - 👨‍💻 My graduation project was a website about camping : [Hike Go On](https://hike-go-on.vercel.app/)
 
